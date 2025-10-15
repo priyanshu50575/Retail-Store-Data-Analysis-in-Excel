@@ -26,3 +26,7 @@ The retail store owner wants to create an annual sales report for 2022 so that t
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply a slicer to make it dynamic.
 
+## Dashboard
+<img width="1623" height="757" alt="Retail Store Annual Report" src="https://github.com/user-attachments/assets/22f5e6bd-751f-402e-8c54-eba7dbd3c4fa" />
+
+
