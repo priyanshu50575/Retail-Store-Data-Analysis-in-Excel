@@ -29,4 +29,19 @@ The retail store owner wants to create an annual sales report for 2022 so that t
 ## Dashboard
 <img width="1623" height="757" alt="Retail Store Annual Report" src="https://github.com/user-attachments/assets/22f5e6bd-751f-402e-8c54-eba7dbd3c4fa" />
 
+## Insights
+
+-Out of the total customers,~65% of women bought the product. Thus, Women are more likely to purchase the product compared to men.
+-Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states contributing ~35% of the total sales amount. 
+-Adult age group (30-49 yrs) is max contributing in the sales ~50%. 
+-Amazon, Flipkart, and Myntra channels are contributing the most in the sales (~80%).
+
+## Recommendations
+
+- Targeted campaign program should be rolled out for women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka, and 
+  Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
+
+
+
+
 
