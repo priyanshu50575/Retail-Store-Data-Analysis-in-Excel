@@ -31,10 +31,10 @@ The retail store owner wants to create an annual sales report for 2022 so that t
 
 ## Insights
 
--Out of the total customers,~65% of women bought the product. Thus, Women are more likely to purchase the product compared to men.
--Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states contributing ~35% of the total sales amount. 
--Adult age group (30-49 yrs) is max contributing in the sales ~50%. 
--Amazon, Flipkart, and Myntra channels are contributing the most in the sales (~80%).
+- Out of the total customers,~65% of women bought the product. Thus, Women are more likely to purchase the product compared to men.
+- Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states contributing ~35% of the total sales amount. 
+- Adult age group (30-49 yrs) is max contributing in the sales ~50%. 
+- Amazon, Flipkart, and Myntra channels are contributing the most in the sales (~80%).
 
 ## Recommendations
 
