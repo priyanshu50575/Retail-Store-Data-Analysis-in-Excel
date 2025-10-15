@@ -17,4 +17,4 @@ The retail store owner wants to create an annual sales report for 2022 so that t
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/priyanshu50575/Retail-Store-Data-Analysis-in-Excel/blob/main/Retail%20Store%20Annual%20Report.PNG"> View Dashboard </a>
