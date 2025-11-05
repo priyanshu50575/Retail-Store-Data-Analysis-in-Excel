@@ -38,7 +38,7 @@ The retail store owner wants to create an annual sales report for 2022 so that t
 
 ## Recommendations
 
-- Targeted campaign program should be rolled out for women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka, and 
+- Targeted campaign program should be roll out for women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka, and 
   Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
 
